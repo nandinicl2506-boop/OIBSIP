@@ -1,4 +1,4 @@
-# Python Task 2: BMI Calcualtor 
+# Python Task 2: BMI Calculator 
 
 ## Overview
 A clean, robust command-line Python application that calculates a user's Body Mass Index (BMI) based on weight and height inputs, classifies the result into standard health categories, and handles input validation gracefully.
