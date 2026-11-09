@@ -77,7 +77,7 @@ Add your output screenshot here, for example: `![BMI Calculator Output](screensh
 
 BMI is a general screening measure and not a medical diagnosis. Consult a healthcare professional for health advice.
 
-## Author Nandini Datta
+## Author 
 
-[Your Full Name]
+Nandini Datta
 Oasis Infobyte Summer Internship Program (OIBSIP), Python Programming Track
