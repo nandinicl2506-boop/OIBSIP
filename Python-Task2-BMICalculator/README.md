@@ -69,9 +69,6 @@ Enter your weight in kg (e.g., 65): 65
 | `read_number`    | Keeps asking until the user enters a valid number in range     |
 | `main`           | Runs the program: input, calculation and result display        |
 
-## Screenshots
-
-Add your output screenshot here, for example: `![BMI Calculator Output](screenshot.png)`
 
 ## Disclaimer
 
@@ -79,5 +76,5 @@ BMI is a general screening measure and not a medical diagnosis. Consult a health
 
 ## Author 
 
-Nandini Datta
+Nandini Datta.          
 Oasis Infobyte Summer Internship Program (OIBSIP), Python Programming Track
